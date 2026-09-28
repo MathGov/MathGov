@@ -12,9 +12,9 @@ Research, specifications and tools for examining decisions through **Reality, Ri
 | **ORSH / AIU** | v1.8-open.1; five separately versioned papers | [Readers](https://mathgov.github.io/ORSH-AIU/) · [Papers, data and code](https://github.com/MathGov/ORSH-AIU) |
 | **AIAP** | v6.5, open-publication edition 1 | [Publication guide](https://ripplelogic.org/aiap/) · [Open release](https://github.com/MathGov/AIAP/releases/tag/AIAP-v6.5-open.1) |
 | **Auditable Flourishing** | v6.2 | [Protocol, methods, workbooks and verification](https://github.com/MathGov/Auditable-Flourishing) |
-| **MHIOS** | v0.8, candidate experimental companion | [Standard, schemas and tests](https://github.com/MathGov/mhios) |
+| **MHIOS** | v2.1, pinned to Core v13.0 / SGP v8.8 | [Read, download and verify](https://mathgov.github.io/mhios/) |
 
-**MHIOS compatibility:** the published v0.8 is tested against Core v12.6 / SGP v8.5. A Core v13.0 update is in preparation; compatibility requires explicit review and tests. Version numbering alone is not evidence of compatibility.
+**MHIOS compatibility:** v2.1 pins all fifteen unchanged Core v13.0 Release I files and SGP v8.8. Its bounded suite passed 133 tests and six synthetic examples. Local record consistency does not establish full Core conformance, empirical validity, real authority or deployment readiness. The historical v0.8 release remains available.
 
 ## Reuse and contribute
 
